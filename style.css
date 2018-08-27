@@ -1,0 +1,56 @@
+.jumbotron{
+    margin-bottom: 30px;
+    height: 500px;
+    color:black;
+    background: rgb(19, 83, 202);
+    padding-top: 10px;
+}
+
+
+.h1 {
+  font-style: bold;
+  font-size: 200px;  
+}
+
+
+.card {
+
+    padding:10px;
+    margin:30px;
+    width:0px;
+
+}
+
+.row 2{
+    margin-bottom: 10px;
+    height: 40px;
+    color: black;
+    background: grey;
+    padding-top: 10px;
+}
+
+
+.row{
+    margin-bottom: 5px;
+    height: 180px;
+    color: black;
+    background: rgb(197, 201, 207);
+    padding-top: 10px;
+    
+
+}
+
+.container{
+    margin-bottom: 5px;
+    height: 100px;
+    color: black;
+    background: transparent;
+    
+
+
+
+
+
+
+
+
